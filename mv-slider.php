@@ -3,7 +3,7 @@
 /**
  * Plugin Name: MV-Slider
  * Plugin URI: www.wordpress.org
- * Description: My slider plugin`s
+ * Description: My slider Carousel plugin`s
  * Version: 1.0
  * Requires at least: 5.6
  * Author: Luis Borges
