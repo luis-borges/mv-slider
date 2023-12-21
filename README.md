@@ -1,2 +1,2 @@
 # mv-slider
-Plugin WordPress Slider and Swiper Carousel
+WordPress Plugin Slider and swiper carousel
